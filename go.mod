@@ -23,7 +23,7 @@ require (
 	github.com/sapcc/go-bits v0.0.0-20220803132021-fd783720dde3
 	github.com/spf13/cobra v1.5.0
 	golang.org/x/crypto v0.0.0-20220722155217-630584e8d5aa
-	gopkg.in/gorp.v2 v2.2.0
+	gopkg.in/gorp.v3 v3.0.2
 )
 
 require (
